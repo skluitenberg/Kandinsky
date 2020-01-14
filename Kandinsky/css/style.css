@@ -1,0 +1,11 @@
+html, body{
+    background-color: black;
+    position: absolute;
+    transform: translateX(45%)
+}
+    
+/*
+div#background {
+    opacity: 0;
+    position: absolute;
+}*/
